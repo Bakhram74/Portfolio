@@ -741,3 +741,8 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+.ava{
+  border-radius:50%;
+  width:60%;
+  height: 55%;
+}
